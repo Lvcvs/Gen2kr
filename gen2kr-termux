@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/data/data/com.termux/files/usr/bin/python2
 # programma preso da:        Irenicus09 (https://github.com/irenicus)
 # modificato e tradotto da:  Skull00    (https://github.com/Skull00)
 import sys
